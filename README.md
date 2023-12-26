@@ -38,7 +38,8 @@ readme[このサイト]と横茶横葉の創作物利用規約[メインサイ�
 ### ライセンスの詳細を見るにはは下の画像をタップ!  
 <a href="https://yokochayokoha.github.io/blicense">
 <img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/blicense.png?raw=true" width="20%">  
-</a>
+</a>  
+
 ## Specialサンクス  
 Mikan-背景画像デザイン 
 # Coffeeシリーズの特設サイトへ  
