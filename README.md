@@ -1,7 +1,7 @@
 <img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/coffee.png?raw=true" width="8%">
 
 # CoffeeOSS4-オープンソースな多機能ブラウザー!
-Android版CoffeeブラウザーのUIを継承した軽量でオープンソースなWindows版のCoffeeブラウザー!4度目の大幅改善! 
+Android版CoffeeブラウザーのUIを継承した軽量でオープンソースなWindows版のCoffeeブラウザー!4度目の大幅改善!  
 <img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/img1COSS4.png?raw=true" width="50%">  
 
 ## Features  
