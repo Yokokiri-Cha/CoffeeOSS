@@ -17,7 +17,8 @@ Android版CoffeeブラウザーのUIを継承した軽量でオープンソー�
 ・DevTools,WebViewタスクマネージャーも搭載!  
 ・操作音声読み上げ機能(アクセシビリティー)-Android版同様、Coffeeロゴを押すと利用可能です!  
 ・ミニポップアップウィンドウ  
-
+・MiniSearch画面
+など  
 ### Powered by Edge WebView2!-Chromiumの機能を利用できます!
 ## 言語  
 現在は日本語のみです。(Japanese only)  
