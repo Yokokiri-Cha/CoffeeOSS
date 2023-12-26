@@ -30,7 +30,9 @@ readme[このサイト]と横茶横葉の創作物利用規約[メインサイ�
 Mikan-背景画像デザイン 
 # Coffeeシリーズの特設サイトへ  
 Coffeeは無料で多機能で軽量なブラウザーのブランドです!/様々なバリエーションが揃ってます!  
+<a href="https://sites.google.com/view/coffeebr">
 <img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/coffeec.png?raw=true" width="20%">  
+</a>
 [CoffeeBrowsers Official Site is here!](https://sites.google.com/view/coffeebr)  
 ### おまけ 製作者からの~一言コメント~  
 かたい椅子に座り、パソコンと6時間にらめっこした結果なので不具合とかあるかもです...　そんなときはお気軽にご報告くださいねっ!(二言)
