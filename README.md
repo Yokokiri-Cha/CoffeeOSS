@@ -52,7 +52,8 @@ Coffeeは無料で多機能で軽量なブラウザーのブランドです!/様
 ### おまけ 製作者からの~一言コメント~  
 かたい椅子に座り、パソコンと6時間にらめっこした結果なので不具合とかあるかもです...　そんなときはお気軽にご報告くださいねっ!(二言目。)  
 # ここまで読んでくれてありがとう!　そして選んでくれてありがとう! (...三言目。)  
-#### Microsoft WebView2 License  
+### 使用したコンポーネントのライセンス表示等  
+#### オープンソースライセンス表示 Microsoft WebView2 License  
 Copyright (C) Microsoft Corporation. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -79,4 +80,32 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
 DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
 THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  
+#### オープンソースライセンス表示 .NET Windows Forms  
+The MIT License (MIT)
+
+Copyright (c) .NET Foundation and Contributors
+
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+#### 著作権表示  
+CoffeeUI Design and Skin(Revised Newbr UI Design) //Recreated by YokochaYokoha//  
+Background image created by Mikan  
