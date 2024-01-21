@@ -62,6 +62,7 @@ Coffeeは無料で多機能で軽量なブラウザーのブランドです!/様
 [CoffeeBrowsers Official Site is here!](https://sites.google.com/view/coffeebr)  
 ### おまけ 製作者からの~一言コメント~  
 CoffeeOSS4と比べて大幅改善!...したと思ってましたがそれほどでもないかもです....  
+誰かのお役に立てれば幸いです!  
 ### 使用したコンポーネントのライセンス表示等  
 #### オープンソースライセンス表示 Microsoft WebView2 License  
 Copyright (C) Microsoft Corporation. All rights reserved.
