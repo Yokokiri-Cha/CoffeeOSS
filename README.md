@@ -1,10 +1,20 @@
 <img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/coffee.png?raw=true" width="8%">
 
-# CoffeeOSS4-オープンソースな多機能ブラウザー!  
+# CoffeeOSS5-オープンソースな多機能ブラウザー!  
 ## 趣味も調べ物もこれ一つ! 　(..とはいかないかもですが、様々な機能があなたをサポートします!)  
-Android版CoffeeブラウザーのUIを継承した軽量でオープンソースなWindows版のCoffeeブラウザー!4度目の大幅改善!  
-<img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/img1COSS4.png?raw=true" width="50%">  
-
+Android版CoffeeブラウザーのUIを継承した軽量でオープンソースなWindows版のCoffeeブラウザー!5度目の大幅改善!  
+<img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/img4coss5.png?raw=true" width="50%">  
+## What's new/改善点  
+・MiniSearchで検索 オプションのチェックボックスが表示崩れしないように改善されました!  
+・LatestNews機能(Android版Coffeeより)をこちらにも実装!  
+・MiniSearchの表示非表示はUplineで変更可能になりました。  
+・メイン画面の前面固定オプションが利用可能になりました!  
+・右側のCoffeeUIパネルを非表示にできるようになりました!  
+・参考文献リスト作成支援機能はその他タブで表示されるようになります!  
+・Uplineのボタンの順番を一部変更しました。  
+・EdgeWebView2のバージョンアップ作業を行いました!  
+・YouTubeの全画面表示の検知機能を実装しました!  
+・簡単に操作できるように基本操作パネルを実装しました!  
 ## Features  
 
 ### ユニークな機能を多数搭載!  
@@ -20,6 +30,7 @@ Android版CoffeeブラウザーのUIを継承した軽量でオープンソー�
 ・操作音声読み上げ機能(アクセシビリティー)-Android版同様、Coffeeロゴを押すと利用可能です!  
 ・ミニポップアップウィンドウ  
 ・MiniSearch画面
+・LatestNews受信機能-最新のバージョン通知を受け取れます
 など  
 ### Powered by Edge WebView2!-Chromiumの機能を利用できます!  
 ## 言語  
@@ -50,8 +61,7 @@ Coffeeは無料で多機能で軽量なブラウザーのブランドです!/様
 </a>
 [CoffeeBrowsers Official Site is here!](https://sites.google.com/view/coffeebr)  
 ### おまけ 製作者からの~一言コメント~  
-かたい椅子に座り、パソコンと6時間にらめっこした結果なので不具合とかあるかもです...　そんなときはお気軽にご報告くださいねっ!(二言目。)  
-# ここまで読んでくれてありがとう!　そして選んでくれてありがとう! (...三言目。)  
+CoffeeOSS4と比べて大幅改善!...したと思ってましたがそれほどでもないかもです....  
 ### 使用したコンポーネントのライセンス表示等  
 #### オープンソースライセンス表示 Microsoft WebView2 License  
 Copyright (C) Microsoft Corporation. All rights reserved.
