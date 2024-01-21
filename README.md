@@ -32,7 +32,7 @@ Android版CoffeeブラウザーのUIを継承した軽量でオープンソー�
 ・MiniSearch画面
 ・LatestNews受信機能-最新のバージョン通知を受け取れます
 など  
-### Powered by Edge WebView2!-Chromiumの機能を利用できます!  
+ 
 ## 言語  
 現在は日本語のみです。(Japanese only)  
 リクエストがあれば ですが、もしかすると英語を追加するかもしれません。  
