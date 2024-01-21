@@ -1,6 +1,6 @@
 <img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/coffee.png?raw=true" width="8%">
 
-# CoffeeOSS5-オープンソースな多機能ブラウザー!  
+# CoffeeOSS5-オープンソースな多機能ブラウザー  
 ## 基本的な機能からマニアックな機能まで揃った、"ライフハック"ブラウザー!    
 Android版CoffeeブラウザーのUIを継承した軽量でオープンソースなWindows版のCoffeeブラウザー!5度目の大幅改善!  
 <img src="https://github.com/Yokokiri-Cha/Resources1/blob/main/img4coss5.png?raw=true" width="50%">  
